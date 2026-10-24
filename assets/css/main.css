@@ -3300,6 +3300,10 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
+		.wrapper.style3-mid {
+			background-color: #533c7d;
+		}
+
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3618,7 +3622,7 @@ input, select, textarea {
 				-webkit-transition: opacity 0.15s ease, -webkit-transform 0.75s ease;
 				-ms-transition: opacity 0.15s ease, -ms-transform 0.75s ease;
 				transition: opacity 0.15s ease, transform 0.75s ease;
-				margin: 1.5em 0 0 0;
+				margin: 0.65em 0 0 0;
 				opacity: 1;
 				padding: 0;
 				position: relative;
@@ -3776,12 +3780,12 @@ input, select, textarea {
 			border: 0;
 			color: rgba(255, 255, 255, 0.35);
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.7em;
 			font-weight: bold;
-			letter-spacing: 0.25em;
-			line-height: 1.75;
+			letter-spacing: 0.18em;
+			line-height: 1.5;
 			outline: 0;
-			padding: 1.35em 0;
+			padding: 0.85em 0;
 			position: relative;
 			text-decoration: none;
 			text-transform: uppercase;
